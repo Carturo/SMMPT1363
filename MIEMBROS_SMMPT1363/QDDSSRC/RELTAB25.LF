@@ -1,0 +1,12 @@
+000100190808      *========================================================================*
+000200190808      * TODOS LOS DERECHOS RESERVADOS CREDIBANCO 2019
+000300190808      *
+000400190808      * ARCHIVO      : RELTAB25
+000500190808      * DESCRIPCION  : Logico de REFTAB25 por R25CRE y R25TIP
+000600190808      * REALIZADO POR: CARLOS ARTURO CASTRO VASQUEZ
+000700190808      * FECHA        : AGOSTO 2019
+000800190808      *
+000900190808      *========================================================================*
+001000190808     A          R REGTAB25                  PFILE(REFTAB25)
+001100190808      *
+001200190808     A          K R25TIP

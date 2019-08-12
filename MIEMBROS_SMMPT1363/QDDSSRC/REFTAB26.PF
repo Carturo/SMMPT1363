@@ -1,0 +1,23 @@
+000100190808      *========================================================================*
+000200190808      * TODOS LOS DERECHOS RESERVADOS CREDIBANCO 2019
+000300190808      *
+000400190808      * ARCHIVO      : REFTAB26
+000500190808      * DESCRIPCION  : TIPOS DE MCC QUE PERMITEN PROPINA
+000600190808      * REALIZADO POR: CARLOS ARTURO CASTRO VASQUEZ
+000700190808      * FECHA        : AGOSTO 2019
+000800190808      *
+000900190808      *========================================================================*
+001000190808     A          R REGTAB26
+001100190808      *
+001200190808     A            R26CRE         2S 0       TEXT('CODIGO REGISTRO')
+001300190808     A                                      COLHDG('COD. REGISTRO')
+001400190808     A            R26MCC         4P 0       TEXT('CODIGO MCC')
+001500190808     A                                      COLHDG('COD. MCC')
+001600190808     A            R26DES        30A         TEXT('DESCRIPCION MCC')
+001700190808     A                                      COLHDG('DESCRIPCION MCC')
+001800190808     A            R26FI1        30A         TEXT('DIPONIBLE FUTURO')
+001900190808     A            R26FI2        30A         TEXT('DIPONIBLE FUTURO')
+002000190808     A            R26FI3        30A         TEXT('DIPONIBLE FUTURO')
+002100190808     A            R26NM1         9S 0       TEXT('DIPONIBLE FUTURO')
+002200190808     A            R26NM2         9S 0       TEXT('DIPONIBLE FUTURO')
+002300190808     A            R26NM3         9S 0       TEXT('DIPONIBLE FUTURO')
